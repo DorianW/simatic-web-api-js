@@ -1,6 +1,6 @@
 {
   "name": "simatic-web-api-js",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Package to handle Siemens Simatic Web Server API communication.",
   "author": "Dorian Wojda",
   "license": "MIT",
@@ -19,6 +19,9 @@
   ],
   "type": "module",
   "types": "dist/",
+  "files": [
+    "dist"
+  ],
   "devDependencies": {
     "typescript": "^5.3.3"
   }
